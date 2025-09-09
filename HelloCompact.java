@@ -1,1 +1,0 @@
-void main() { System.out.println("Hello from Java 25 compact source file!"); }
