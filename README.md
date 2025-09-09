@@ -1,7 +1,7 @@
 
 # Java 25 (JDK 25 – LTS) Manual
 
-A single-file manual with **all code examples embedded in this README**. Copy/paste the snippets below to try the new features of **Java 25 (LTS)**.
+Copy/paste the snippets below to try the new features of **Java 25 (LTS)**.
 
 ---
 
