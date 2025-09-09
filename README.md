@@ -3,8 +3,6 @@
 
 A single-file manual with **all code examples embedded in this README**. Copy/paste the snippets below to try the new features of **Java 25 (LTS)**.
 
-> Tip: This README is English-first for broader GitHub reach. If you want a **PT-BR** version, I can generate it too.
-
 ---
 
 ## Table of Contents
